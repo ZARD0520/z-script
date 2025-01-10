@@ -1,0 +1,23 @@
+{
+  "name": "z-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "imgToWebp": "node webp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ZARD0520/z-script.git"
+  },
+  "author": "zard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZARD0520/z-script/issues"
+  },
+  "homepage": "https://github.com/ZARD0520/z-script#readme",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
